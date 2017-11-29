@@ -1,0 +1,134 @@
+package com.hyphenate.chatuidemo.ui;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.animation.AlphaAnimation;
+import android.widget.ImageView;
+
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.chatuidemo.DemoHelper;
+import com.hyphenate.chatuidemo.R;
+import com.hyphenate.util.EasyUtils;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
+
+/**
+ * 开屏页
+ */
+public class SplashActivity extends BaseActivity {
+
+    private static final int sleepTime = 2000;
+    @BindView(R.id.iv_splash)
+    ImageView mIvSplash;
+    @BindView(R.id.iv_splash_login)
+    ImageView mIvSplashLogin;
+    @BindView(R.id.iv_splash_regist)
+    ImageView mIvSplashRegist;
+
+    @Override
+    protected void onCreate(Bundle arg0) {
+        setContentView(R.layout.activity_splash);
+        ButterKnife.bind(this);
+        super.onCreate(arg0);
+
+        DemoHelper.getInstance().initHandler(this.getMainLooper());
+
+//		RelativeLayout rootLayout = (RelativeLayout) findViewById(R.id.splash_root);
+//		TextView versionText = (TextView) findViewById(R.id.tv_version);
+
+//		versionText.setText(getVersion());
+        AlphaAnimation animation = new AlphaAnimation(0.3f, 1.0f);
+        animation.setDuration(1500);
+//		rootLayout.startAnimation(animation);
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+
+        new Thread(new Runnable() {
+            public void run() {
+                if (DemoHelper.getInstance().isLoggedIn()) {
+                    // auto login mode, make sure all group and conversation is loaed before enter the main screen
+                    long start = System.currentTimeMillis();
+                    EMClient.getInstance().chatManager().loadAllConversations();
+                    EMClient.getInstance().groupManager().loadAllGroups();
+                    long costTime = System.currentTimeMillis() - start;
+                    //wait
+                    if (sleepTime - costTime > 0) {
+                        try {
+                            Thread.sleep(sleepTime - costTime);
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
+                        }
+                    }
+                    String topActivityName = EasyUtils.getTopActivityName(EMClient.getInstance().getContext());
+                    if (topActivityName != null && (topActivityName.equals(VideoCallActivity.class.getName()) || topActivityName.equals(VoiceCallActivity.class.getName()))) {
+                        // nop
+                        // avoid main screen overlap Calling Activity
+                    } else {
+                        //enter main screen
+                        startActivity(new Intent(SplashActivity.this, MainActivity.class));
+                    }
+                    finish();
+                } else {
+                    try {
+                        Thread.sleep(sleepTime);
+                    } catch (InterruptedException e) {
+                    }
+//                    new Thread(new Runnable() {
+//                        @Override
+//                        public void run() {
+//                            SystemClock.sleep(2000);
+//                            runOnUiThread(new Runnable() {
+//                                @Override
+//                                public void run() {
+//                                    mIvSplashLogin.setVisibility(View.VISIBLE);
+//                                    mIvSplashRegist.setVisibility(View.VISIBLE);
+//                                }
+//                            });
+//                        }
+//                    }).start();
+//                    startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+//                    finish();
+                    new Runnable() {
+                        @Override
+                        public void run() {
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    mIvSplashLogin.setVisibility(View.VISIBLE);
+                                    mIvSplashRegist.setVisibility(View.VISIBLE);
+                                }
+                            });
+                        }
+                    }.run();
+                }
+            }
+        }).start();
+
+    }
+
+    /**
+     * get sdk version
+     */
+    private String getVersion() {
+        return EMClient.getInstance().VERSION;
+    }
+
+    @OnClick({R.id.iv_splash, R.id.iv_splash_login, R.id.iv_splash_regist})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
+            case R.id.iv_splash:
+                break;
+            case R.id.iv_splash_login:
+                startActivity(LoginActivity.class,false);
+                break;
+            case R.id.iv_splash_regist:
+                break;
+        }
+    }
+}

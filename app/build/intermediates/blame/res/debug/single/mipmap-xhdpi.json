@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_contact.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_contact.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_icon.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\login_icon.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_person_select.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_person_select.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\avatar2.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\avatar2.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\alipay_icon.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\alipay_icon.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\detail_black.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\detail_black.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\zan_black.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\zan_black.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_login_line.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\bg_login_line.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_black_normal.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_black_normal.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\weibo_icon.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\weibo_icon.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_regist.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\bg_regist.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_black_select.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_black_select.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_dkt_loading.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_dkt_loading.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_student_normal.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_student_normal.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_msg_normal.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_msg_normal.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\look_black.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\look_black.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\avatar3.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\avatar3.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\message.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\message.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_qq.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_qq.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_expression.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\chat_expression.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_group.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_group.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\nodata.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\nodata.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_login.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\bg_login.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\search.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_student_select.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_student_select.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\regist_icon.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\regist_icon.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\woman_person.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\woman_person.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_msg_select.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_msg_select.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_message.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_message.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_bitmap.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\login_bitmap.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\follow_contact.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\follow_contact.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\boshimao.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\boshimao.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\right_icon.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\right_icon.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_wx.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_wx.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_wx_group.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_wx_group.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\avatar1.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\avatar1.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\friend.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\friend.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\splash.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\weixin_icon.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\weixin_icon.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\invitation_weibo.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\invitation_weibo.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\splash2.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\splash2.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\edit_person.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\edit_person.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\home_person_normal.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\home_person_normal.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\man_person.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\man_person.png"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_clear.png",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_clear.png"
+    }
+]

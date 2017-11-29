@@ -1,0 +1,7 @@
+#Tue Nov 28 15:18:37 CST 2017
+base.0=D\:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0d43c999a137fda5ea7cc0a9c80ef46f100e318c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_179fda34bd656eb7a2938dd4427e8f7be07a94f2\\classes.dex
+base.1=D\:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_179fda34bd656eb7a2938dd4427e8f7be07a94f2
+file.0=D\:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0d43c999a137fda5ea7cc0a9c80ef46f100e318c\\classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,846 @@
+[
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_login.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_login.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conference.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_conference.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_name_password.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_name_password.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_group.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_group.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_single_chat_packet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_fragment_single_chat_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_robots.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_robots.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_chat.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_offline_push.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_offline_push.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_received_random_packet.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_received_random_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_search_bar_with_padding.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_file.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_diagnose.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_diagnose.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_record.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_activity_record.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_layout_loading_data.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_layout_loading_data.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_logout_actionsheet.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_logout_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_text.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_context_menu_for_text.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_listview_footer_view.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_listview_footer_view.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_choose_griditem.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_choose_griditem.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_message.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_random_detail_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_random_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_received_record_list_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_received_record_list_header.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_new_chat_room.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_new_chat_room.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_black_list.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_black_list.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_advert.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_fragment_advert.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shared_files.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_shared_files.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_public_groups_search.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_public_groups_search.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_shared_file_row.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_shared_file_row.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_widget_contact_item.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_widget_contact_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_loading.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_choose_record_popup_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_choose_record_popup_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_voice.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_context_menu_for_voice.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_black.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\fragment_black.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_fragment_groups.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_fragment_groups.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_at_user.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_pick_at_user.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_widget_title_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_widget_title_bar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_invite_msg.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_invite_msg.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_public_groups.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_public_groups.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_record_list_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_record_list_footer.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_register.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_register.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_add_group.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_add_group.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_voice_call.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_voice_call.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_details_list_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_details_list_footer.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conference_invite.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_conference_invite.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_send_record_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_send_record_list_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_grid_owner.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_grid_owner.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_simle_details.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_group_simle_details.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_edit.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_edit.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_group_packet_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_fragment_group_packet_detail.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_chat_neterror_item.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_chat_neterror_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_group_member_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_group_member_header.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_recorder_activity.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_recorder_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_main.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_main.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_fragment_conversation_settings.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_search_message.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_group_search_message.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_pick_contacts.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_pay_tips_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_pay_tips_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_blacklist.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_group_blacklist.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_fragment_robots.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_fragment_robots.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_group_member.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_activity_group_member.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_splash.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_splash.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_record_fragment.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_record_fragment.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_red_packet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_activity_red_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_black_head.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\item_black_head.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_sent_random_packet.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_sent_random_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_single_packet_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_fragment_single_packet_detail.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_received_red_packet.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_received_red_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_open_packet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_open_packet_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_call_option.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_call_option.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_contact.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_mail_log.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_mail_log.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_popup_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_popup_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_location.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_context_menu_for_location.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_open_exclusive_packet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_open_exclusive_packet_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push_settings.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_offline_push_settings.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_search_message.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_search_message.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_image.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_context_menu_for_image.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_received_record_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_received_record_list_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_group_chat_packet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_fragment_group_chat_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_user_profile.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_user_profile.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_conversation_item.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_error_page.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_error_page.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_servers.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_set_servers.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_new_friends_msg.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_send_record_list_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_send_record_list_header.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_chatroom_details.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_chatroom_details.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_contact_with_checkbox.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_device.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\activity_multi_device.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_red_packet_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_activity_red_packet_detail.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_details_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_details_list_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_video.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_context_menu_for_video.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_tool_bar_title.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\include_tool_bar_title.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_multi_dev_item.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_multi_dev_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_details.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_group_details.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_new_group.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_new_group.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_sent_red_packet.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_sent_red_packet.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_details_list_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_details_list_header.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_random_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_random_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rp_group_member_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab5eee2ec634a4a90504e8425d386da1ef175336\\output\\res\\layout\\rp_group_member_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_grid.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_grid.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_red_packet_ack_message.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_red_packet_ack_message.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4d651d5fa421f43933c61fea4dea6a095cebaad3\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_recall_message.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_row_recall_message.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_chatroom_member_menu.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_chatroom_member_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_image_grid_fragment.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_image_grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_pick_contact_no_checkbox.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_widget_conference_view.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_widget_conference_view.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_add_contact.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_add_contact.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e7bab9009bcae7d2b4ed45a5f185cde89ac5f94f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recycler_black.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\item_recycler_black.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_contacts_header.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_contacts_header.xml"
+    },
+    {
+        "merged": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_video_call.xml",
+        "source": "D:\\project\\sdkbuild\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\layout\\em_activity_video_call.xml"
+    }
+]
